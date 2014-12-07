@@ -79,7 +79,6 @@ BIN =\
 	expr\
 	false\
 	fold\
-	grep\
 	head\
 	hostname\
 	kill\
@@ -93,7 +92,6 @@ BIN =\
 	mkfifo\
 	mktemp\
 	mv\
-	nice\
 	nl\
 	nohup\
 	paste\
@@ -101,7 +99,6 @@ BIN =\
 	printf\
 	pwd\
 	readlink\
-	renice\
 	rm\
 	rmdir\
 	seq\
